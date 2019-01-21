@@ -1,0 +1,15 @@
+{
+    "name": "@surfboard/widgets",
+    "version": "0.1.0",
+    "devDependencies": {
+        "@surfboard/ui": "^0.1.0",
+        "@types/react": "^16.7.20",
+        "react": "^16.7.0",
+        "rxjs": "^6.3.3",
+        "typescript": "^3.2.4"
+    },
+    "peerDependencies": {
+        "@surfboard/ui": "^0.1.0"
+    },
+    "main": "dist/index.js"
+}
